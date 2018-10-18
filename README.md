@@ -1,5 +1,7 @@
 # stream-solr: 
 
+[Presentation Slides](https://www.slideshare.net/AmritSarkar1/streaming-solr-activate-2018-talk)
+
 [Building Analytics Application with Streaming Expressions in Apache Solr - Amrit Sarkar
 ](https://www.youtube.com/watch?v=3u4MDH9P_9A)
 
