@@ -1,6 +1,7 @@
 # stream-solr: 
 
-https://www.youtube.com/watch?v=3u4MDH9P_9A
+[Building Analytics Application with Streaming Expressions in Apache Solr - Amrit Sarkar
+](https://www.youtube.com/watch?v=3u4MDH9P_9A)
 
 [Activate 2018](https://activate2018.sched.com/event/FkMi/building-analytics-applications-with-streaming-expressions-in-apache-solr)
 
