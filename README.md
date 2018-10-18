@@ -1,4 +1,7 @@
-# stream-solr
+# stream-solr: 
+https://www.youtube.com/watch?v=3u4MDH9P_9A
+https://activate2018.sched.com/event/FkMi/building-analytics-applications-with-streaming-expressions-in-apache-solr
+https://fifthelephant.talkfunnel.com/2018/33-building-analytics-application-with-streaming-expr
 
 https://github.com/lucidworks/zeppelin-solr
 
