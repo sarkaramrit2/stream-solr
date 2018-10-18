@@ -7,7 +7,8 @@ https://www.youtube.com/watch?v=3u4MDH9P_9A
 [Fifth Elephant 2018](https://fifthelephant.talkfunnel.com/2018/33-building-analytics-application-with-streaming-expr)
 
 
-https://github.com/lucidworks/zeppelin-solr
+[Zeppelin Solr Interpreter](https://github.com/lucidworks/zeppelin-solr)
+
 
 1. Load the Zepellin Solr dashboard config json.
 2. Download weekly_data.zip, unzip, use Solr BACKUP API to load it into Solr.
